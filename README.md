@@ -10,7 +10,7 @@ This project allows you to practice the concepts and techniques learned in this 
 
 Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
 
-### Description
+### Description 
 
 In this project you'll build an app that will keep track of memebers of a team. You'll be able to add members to this team as well as edit their details.
 
@@ -28,15 +28,15 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [ x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [ x] Add your team lead as a reviewer on the pull-request
+- [ x] Your team lead will count the project as complete by merging the branch back into master.
+- [ x] Do your magic!
 
 ## Minimum Viable Product
 
-- [ ] Render a list of team members from state
-- [ ] Build a form to add a new member to the list of members
+- [ x] Render a list of team members from state
+- [ x] Build a form to add a new member to the list of members
 
 ### STEP 1 - Setup your state
 
